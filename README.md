@@ -1,4 +1,4 @@
-#### This repository is designed to track my learning.
+### This repository is designed to track my learning.
 
 ## Data Structure
-##### Learning Data Structure implementations in C++
+##### Learning Data Structure in C++
