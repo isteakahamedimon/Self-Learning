@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "c4cd3d10ed80e388",
+    "type": "split",
+    "children": [
+      {
+        "id": "1258c3cc154fef13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dec6d14343a391d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentals/The Big Five.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Big Five"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e355dae9ae38c421",
+    "type": "split",
+    "children": [
+      {
+        "id": "73fecf717c8f1ddc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e3aabf04f44cbb2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5b35eadcd4ea6506",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "20a394c400a386e3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "405e0144ba36325d",
+    "type": "split",
+    "children": [
+      {
+        "id": "251bf4cf2db90a95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e38fd5cab64950c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fundamentals/Initialization List.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Initialization List"
+            }
+          },
+          {
+            "id": "fd5724139680ae5e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fundamentals/Initialization List.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Initialization List"
+            }
+          },
+          {
+            "id": "e66b97d90a16c620",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7b93bd608ca94774",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c5338d0b0e1a4151",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fundamentals/Initialization List.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Initialization List"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "dec6d14343a391d3",
+  "lastOpenFiles": [
+    "Fundamentals/Separation of Interface and Implementation.md",
+    "Fundamentals/The Big Five.md",
+    "Fundamentals/Reference and Pointer.md",
+    "Fundamentals/Operator Overloading.md",
+    "Fundamentals/Lvalues, Rvalues and References.md",
+    "Fundamentals/Initialization List.md",
+    "Fundamentals/How a C++ program is compiled.md",
+    "2026-07-22.md",
+    "2. Lists, Stacks and Queues/Pointer and Reference.md"
+  ]
+}
