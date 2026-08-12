@@ -21,7 +21,8 @@ class Identity
              PrintIdentity(this);
         }
 
-        //std::cout << *this << std::endl;       
+        // A class body can only contain declarations(member variables, member function declarations/definitions, nested types(a class, struct, enum, or even a typedef/using alias). Loose statement like the following one has to be inside a function. This will throw a Compilation Error. So, basically this statement is trying to interprete std::cout as a declaration. This can also be fixed by defining <<'s operator overloading.
+        std::cout << this << std::endl;       
 };
 
 void PrintIdentity(Identity* I)
