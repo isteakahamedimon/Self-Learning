@@ -10,6 +10,7 @@ class Vector
         Object* objects;
     
     public:
+        static const int SPARE_CAPACITY = 16;
         int temp = 100;
 
         explicit Vector(int initSize = 0)
@@ -39,7 +40,6 @@ class Vector
             delete [] objects;
         }
 
-        static const int SPARE_CAPACITY = 16;
 };
 
 /*
