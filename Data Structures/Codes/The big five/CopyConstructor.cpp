@@ -37,6 +37,11 @@ class String
             return m_Buffer[index];
         }
 
+        void printBuffer()
+        {
+            std::cout << (void*)m_Buffer << std::endl;
+        }
+
         friend std::ostream& operator<<(std::ostream& stream, const String& string);
 };
 
@@ -46,9 +51,9 @@ std::ostream& operator<<(std::ostream& stream, const String& string)
     return stream;
 }
 
-void PrintString(const String& string)
+void PrintAddress(const String& string)
 {
-    std::cout << string << std::endl;
+    std::cout << &string << std::endl;
 }
 
 int main()
@@ -56,13 +61,16 @@ int main()
     String string = "Isteak";
     String second = string;
 
-    std::cout << *string << std::endl;
-    std::cout << *second << std::endl;
+    // std::cout << *string << std::endl;
+    // std::cout << *second << std::endl;
 
     second[2] = 'T';
 
     std::cout << string << std::endl;
     std::cout << second << std::endl;
+
+    string.printBuffer();
+    second.printBuffer();
 
 
     std::cin.get();
