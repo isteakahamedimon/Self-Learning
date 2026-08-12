@@ -1,6 +1,7 @@
 #include<iostream>
 
 class Identity;
+
 void PrintIdentity(Identity* I);
 
 class Identity
