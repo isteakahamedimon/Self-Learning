@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/The Big Five.md",
-                "mode": "preview",
+                "file": "Fundamentals/C++ Streams & Operator Overloading.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Big Five"
+              "title": "C++ Streams & Operator Overloading"
             }
           }
         ]
@@ -187,13 +187,13 @@
   },
   "active": "dec6d14343a391d3",
   "lastOpenFiles": [
-    "Fundamentals/Separation of Interface and Implementation.md",
-    "Fundamentals/The Big Five.md",
-    "Fundamentals/Reference and Pointer.md",
-    "Fundamentals/Operator Overloading.md",
-    "Fundamentals/Lvalues, Rvalues and References.md",
-    "Fundamentals/Initialization List.md",
     "Fundamentals/How a C++ program is compiled.md",
+    "Fundamentals/Initialization List.md",
+    "Fundamentals/The Big Five.md",
+    "Fundamentals/Separation of Interface and Implementation.md",
+    "Fundamentals/C++ Streams & Operator Overloading.md",
+    "Fundamentals/Reference and Pointer.md",
+    "Fundamentals/Lvalues, Rvalues and References.md",
     "2026-07-22.md",
     "2. Lists, Stacks and Queues/Pointer and Reference.md"
   ]
