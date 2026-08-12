@@ -1,10 +1,5 @@
 #include<iostream>
 
-void PrintIdentity(Identity* I)
-{
-    std::cout << I->name << " " << I->age << "\n";
-}
-
 class Identity
 {
     private:
@@ -22,8 +17,13 @@ class Identity
              PrintIdentity(this);
         }
 
-        std::cout << *this << std::endl;       
+        //std::cout << *this << std::endl;       
 };
+
+void PrintIdentity(Identity* I)
+{
+    std::cout << I->name << " " << I->age << "\n";
+}
 
 int main()
 {
