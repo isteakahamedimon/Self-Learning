@@ -185,13 +185,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "dec6d14343a391d3",
+  "active": "4e3aabf04f44cbb2",
   "lastOpenFiles": [
+    "Fundamentals/Standalone Functions & Operator Overloading Resolution.md",
+    "Fundamentals/C++ Streams & Operator Overloading.md",
     "Fundamentals/How a C++ program is compiled.md",
     "Fundamentals/Initialization List.md",
     "Fundamentals/The Big Five.md",
     "Fundamentals/Separation of Interface and Implementation.md",
-    "Fundamentals/C++ Streams & Operator Overloading.md",
     "Fundamentals/Reference and Pointer.md",
     "Fundamentals/Lvalues, Rvalues and References.md",
     "2026-07-22.md",
