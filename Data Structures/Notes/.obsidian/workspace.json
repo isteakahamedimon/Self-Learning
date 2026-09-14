@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "C++ Streams & Operator Overloading"
             }
+          },
+          {
+            "id": "242e4cb6bcd48034",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +198,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "4e3aabf04f44cbb2",
+  "active": "242e4cb6bcd48034",
   "lastOpenFiles": [
     "Fundamentals/Standalone Functions & Operator Overloading Resolution.md",
     "Fundamentals/C++ Streams & Operator Overloading.md",

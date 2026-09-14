@@ -13,7 +13,7 @@ class Vector
         static const int SPARE_CAPACITY = 16;
         int temp = 100;
 
-        explicit Vector(int initSize = 0)
+         Vector(int initSize = 0)
             : theSize(initSize), theCapacity(initSize + SPARE_CAPACITY)
         {
             objects = new Object[theCapacity];
@@ -52,9 +52,9 @@ void showTen(Vector<int> & v)
 int main()
 {
     Vector<int> v1(5);
-    Vector<int> v2;
+    Vector<int> v2, v3;
 
-    v2 = v1;
+    v2 = v1 = v3;
 
     return 0;
 }
